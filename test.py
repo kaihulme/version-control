@@ -1,10 +1,10 @@
-#lines = open("README.md", "r").readlines()
+lines = open("README.md", "r").readlines()
 
-#for line in lines:
-#    print(line, end="")
+for line in lines:
+    print(line, end="")
 
-#print("\nEverything is OK")
+print("\nEverything is OK")
 
-import sys
+#import sys
 
-sys.exit(-1)
+#sys.exit(-1)
