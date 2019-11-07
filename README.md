@@ -1,7 +1,14 @@
-#Hello Brilliant, Useful GitHub
+# Hello Brilliant, Useful GitHub
 
-This is a text file that we are going to add to Git.
+This is a README.md file that will be used to describe this
+repository on GitHub
 
-This is an extra line added to the clone
+This is a much improved introduction that includes a 
+new list of items
 
-A new line added in the original dir
+* Item 1
+* Item 2
+* Item 3
+
+This is an extra line of text added to the copy 
+of README.md in the cloned repository
