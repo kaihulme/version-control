@@ -1,4 +1,4 @@
-# Hello GitHub
+# Hello Useful GitHub
 
 This is a text file that we are going to add to Git.
 
