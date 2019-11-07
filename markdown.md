@@ -1,3 +1,3 @@
 # Markdown
 
-this is a markdown file changed in original dir
+this is a markdown file changed in original and clone dirs
